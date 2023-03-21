@@ -7,16 +7,19 @@
 body {
     margin: 40px;
     background-color: rgb(155, 155, 245);
+    
 }
 
 .box{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin: auto;
     background-color: aquamarine;
     width: 600px;
-    padding: 20px;
+    padding: 30px;
     box-shadow: 5px 5px 5px 5px rgba(90, 89, 89, 0.429);
+    letter-spacing: 1px;
+
 }
 
 .lines {

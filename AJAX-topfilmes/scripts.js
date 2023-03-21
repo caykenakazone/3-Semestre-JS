@@ -8,12 +8,16 @@ function getTopFilmes() {
             
                     var titulo = data.results[i].title;
                     var avaliacao = data.results[i].vote_average;
+                    var popularidade = data.results[i].popularity;
+                    var datalanc = data.results[i].release_date;
+                
                     var div = document.createElement("div");
                     div.setAttribute("class","box")
                     var p = document.createElement("p");
                     document.body.appendChild(div); 
                     div.appendChild(p);
-                    p.textContent = `Título: ${titulo}\nAvaliação: ${avaliacao}`;
+                    p.innerHTML = `Título: ${titulo}<br>Avaliação: ${avaliacao}
+                    <br>Popularidade: ${popularidade}<br>Data de lançamento: ${datalanc}`;
                 
             }
         })
