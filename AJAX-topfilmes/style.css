@@ -9,7 +9,9 @@ body {
     background-color: rgb(155, 155, 245);
 }
 
-.box {
+.box{
+    display: flex;
+    flex-direction: row;
     margin: auto;
     background-color: aquamarine;
     width: 600px;
