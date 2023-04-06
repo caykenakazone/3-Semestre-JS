@@ -1,0 +1,22 @@
+{
+    "marca": [
+        "Brastemp",
+        "Electrolux",
+        "Consul"
+    ],
+    "modelo": [
+        "Geladeira Frost Free Duplex ",
+        "Geladeira DC35A",
+        "Geladeira CRM39AB"
+    ],
+    "valor": [
+        "2.997,00",
+        "2.159,00",
+        "2.499,00"
+    ],
+    "imgs": [
+        "geladeiras/geladeira01.jpg",
+        "geladeiras/geladeira02.jpg",
+        "geladeiras/geladeira03.jpg"
+    ]
+}

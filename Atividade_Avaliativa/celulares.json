@@ -1,0 +1,22 @@
+{
+    "marca": [
+        "Samsung",
+        "Motorola",
+        "Apple"
+    ],
+    "modelo": [
+        "Smartphone S12 ",
+        "Smartphone Moto G20 ",
+        "Smartphone Iphone 12"
+    ],
+    "valor": [
+        "5.000,00",
+        "1.300,00",
+        "4.309,00"
+    ],
+    "imgs": [
+        "celulares/celular01.jpg",
+        "celulares/celular02.jpg",
+        "celulares/celular03.jpg"
+    ]
+}
