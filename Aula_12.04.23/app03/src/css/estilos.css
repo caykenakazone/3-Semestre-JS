@@ -1,0 +1,10 @@
+.centralizar{
+    text-align: center;
+}
+.avaliacaoCliente{
+    border: 1px solid black;
+    width: 300px;
+    padding: 4px;
+    background-color: rgb(210, 208, 208);
+    display:inline-block;
+}
