@@ -1,5 +1,4 @@
-import Depoimentos from "./components/main/section/depoimentos/depoimentos";
-
+import Depoimentos from "./components/main/section/depoimentos/Depoimentos";
 function App() {
   return (
     <Depoimentos/>
