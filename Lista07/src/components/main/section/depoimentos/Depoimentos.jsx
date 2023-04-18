@@ -13,7 +13,7 @@ function AvaliacoesClientes() {
       },
       {
         foto: "foto02.jpg",
-        nome: "Dani Shutz",
+        nome: "Jose Shutz",
         avaliacao01: "Eu recomendo a Leticia, pois o atendimento dela fez toda a diferença", avaliacao02: "A escolha de um imovel não foi uma tarefa fácil, principalmente no nosso caso, onde queriamos uma casa. A escolha de umprofissional qualificado ajudou muito"
       },
       {
