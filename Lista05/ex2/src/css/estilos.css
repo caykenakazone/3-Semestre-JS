@@ -1,0 +1,15 @@
+.avaliacaoCliente{
+    width: 300px;
+    border: 2px solid black;
+    box-shadow: 3px 3px 5px black;
+    padding: 10px;
+    background-color: rgb(238, 235, 235);
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    
+}
+.avaliacaoCliente > img{
+    width: 200px;
+    border-radius: 50%;
+}
