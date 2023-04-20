@@ -1,0 +1,18 @@
+.post{
+    border: 1px solid black;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 1px black;
+    margin-bottom: 10px;
+}
+
+.post  h2 {
+    color: red;
+}
+.homem {
+     background-color: lightgreen;
+}
+.mulher{
+    background-color: rgb(232, 122, 122);
+}

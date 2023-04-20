@@ -6,7 +6,7 @@ export default function Depoimentos() {
     const avaliacoes = [
         { foto: "foto01.jpg", nome: "Ana Bruck", avaliacao01: "Estou muito feliz...", avaliacao02: "Recomendo essa corretora para todos..." },
         { foto: "foto02.jpg", nome: "Dani Shutz", avaliacao01: "Estou muito feliz...", avaliacao02: "Recomendo essa corretora para todos..." },
-        { foto: "foto03.jpg", nome: "Bia Lobo", avaliacao01: "Estou muito feliz...", avaliacao02: "Recomendo essa corretora para NINGEUM..." }
+        { foto: "foto03.jpg", nome: "Bia Lobo", avaliacao01: "Estou muito feliz...", avaliacao02    : "Recomendo essa corretora para NINGEUM..." }
     ]
 
     return (
