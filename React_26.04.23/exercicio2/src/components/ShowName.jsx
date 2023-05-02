@@ -2,7 +2,7 @@ import { useState } from "react"
 
 export default function showNames() {
 
-    const [nome, setNome] = useState("Cayke");
+    const [nome, setNome] = useState("CAYKE");
 
     function mudarNome(e) {
 
