@@ -20,13 +20,9 @@ export default function AdicionarParagrafos() {
   return (
     <div>
       {paragrafos.map((paragrafo, index) => (
-        <p key={index}>{paragrafo}</p>
+        <p key={index}>{paragrafo} </p>
       ))}
-      <input
-        type="text"
-        value={novoParagrafo}
-        onChange={salvarAlt}
-        placeholder="Digite um novo parágrafo"
+      <input type="text" value={novoParagrafo} onChange={salvarAlt} placeholder="Digite um novo parágrafo"
       />
       <button onClick={adicionarParagrafo}>Adicionar parágrafo</button>
     </div>
