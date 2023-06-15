@@ -1,0 +1,12 @@
+{
+    "faqs": [
+        {
+            "pergunta": "1) Pergunta 01",
+            "resposta": "Resposta 01"
+        },
+        {
+            "pergunta": "2) Pergunta 02",
+            "resposta": "Resposta 02"
+        }
+    ]
+}
